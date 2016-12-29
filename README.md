@@ -5,4 +5,4 @@ I need more practice in C++ for some of the jobs I want. Since most of those job
 computer vision, I thought a good way to practice would be to redo some previous computer vision
 homework in this language.
 
-Assuming that OpenCV 2.4.9 installed.
+Assuming that OpenCV 2.4.9 installed. The latest now is 3.2, so I will be using that.
