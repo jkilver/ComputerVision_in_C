@@ -28,3 +28,12 @@
 *.app
 
 *.user
+
+# Debug folders
+**/Debug/
+**/Release/
+
+# User files
+*.opendb
+*.VC.db
+*.vcxproj.filters
